@@ -11,7 +11,7 @@
 
 Hey there! I’m Alexandru Soroiu - a curious, community-driven Computer Science & Finance student passionate about creating tools that make life easier, smarter, and sometimes just a bit more fun. From designing AI flashcard generators to coding escape room games, I love mixing logic and creativity in every project.
 
-Originally from Romania 🇷🇴, now based in the U.S. 🇺🇸, I bring a multicultural, first-generation perspective into everything I do. I’ve worked across web, mobile, and backend systems — and I’m currently diving deep into AI and ML.
+Originally from Romania 🇷🇴, now based in the U.S. 🇺🇸, I bring a multicultural, first-generation perspective into everything I do. I’ve worked across web, mobile, and backend systems - and I’m currently diving deep into AI and ML.
 
 ---
 
